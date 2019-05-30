@@ -1,0 +1,5 @@
+#pragma once
+
+void Option_Update();   //çXêV
+
+void Option_Draw();	//ï`é 

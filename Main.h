@@ -1,0 +1,9 @@
+#pragma once
+
+bool Update();       //fpsçXêV
+
+void Draw();         //fpsï`é 
+
+void Wait();         //fpsë“ã@
+
+bool Process();      //Ç¢Ç¬Ç‡ÇÃ
